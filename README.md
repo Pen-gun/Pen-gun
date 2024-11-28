@@ -3,8 +3,8 @@
 - 🌱 I’m currently in college.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me namshang715@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Earth is not flat.
 
 <!---
 Pen-gun/Pen-gun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
