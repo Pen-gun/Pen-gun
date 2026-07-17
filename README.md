@@ -45,10 +45,6 @@ I'm building hands-on DevOps skills — automating infrastructure, building CI/C
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pen-gun&show_icons=true&theme=default&hide_border=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pen-gun&theme=default&hide_border=true)
 
 ## Pinned Projects
 
