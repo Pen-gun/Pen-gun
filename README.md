@@ -45,11 +45,6 @@ I'm building hands-on DevOps skills — automating infrastructure, building CI/C
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-
-## Pinned Projects
-
-> Pin your top DevOps repos on your profile (Customize your pins → select up to 6) so they appear here automatically. Good candidates: CI/CD pipeline configs, Terraform modules, Dockerized apps, Kubernetes manifests, or automation scripts.
-
 ## Contact
 
 | Type | Contact |
