@@ -3,7 +3,7 @@
 **Aspiring DevOps Engineer** — Infrastructure Automation · CI/CD · Cloud · Containers
 
 [![GitLab](https://img.shields.io/badge/GitLab-pen--gun-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/pen-gun)
-[![Email](https://img.shields.io/badge/Email-info%40paraslimbu.com.np-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:info@paraslimbu.com.np)
+[![Email](https://img.shields.io/badge/Email-info%40paraslimbu.com.np-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:paraslimbu.com.np)
 
 ---
 
