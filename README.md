@@ -58,7 +58,6 @@ I'm building hands-on DevOps skills — automating infrastructure, building CI/C
 
 | Type | Contact |
 |---|---|
-| Professional Email | info@paraslimbu.com.np |
 | Personal Email | paraslimbu7115@gmail.com |
 | GitLab | [gitlab.com/pen-gun](https://gitlab.com/pen-gun) |
 
